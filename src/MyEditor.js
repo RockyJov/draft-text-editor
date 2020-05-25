@@ -7,7 +7,7 @@ import {
   convertToRaw,
   convertFromRaw,
 } from "draft-js";
-// Test Git
+
 class MyEditor extends React.Component {
   editorStyles = {
     width: "200px",
