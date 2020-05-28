@@ -8,7 +8,8 @@ import ToDo from "./Todo";
 function App() {
   return (
     <div>
-      <SaveData2 />
+      <MyEditor />
+      <DisplayEditor />
     </div>
   );
 }

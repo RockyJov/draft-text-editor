@@ -60,4 +60,3 @@ class SaveData2 extends React.Component {
 }
 
 export default SaveData2;
-//I got fucking stuck
