@@ -8,10 +8,9 @@ import ToDo from "./Todo";
 function App() {
   return (
     <div>
-      <MyEditor />
-      <DisplayEditor />
+      <Todo />
     </div>
   );
 }
-
+// switch components to MyEditor or MyEditorHTML and DisplayEditor.
 export default App;
